@@ -1,0 +1,2 @@
+Hi,
+This is sample file for read, write using python File I/O
